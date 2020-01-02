@@ -1,0 +1,143 @@
+Ho Chi Minh City, Hanoi, 1137
+Da Nang, Haiphong, 557
+Bien Hoa, Hue, 619
+Nha Trang, Can Tho, 445
+Rach Gia, Qui Nhon, 615
+Da Lat, Thanh Pho Nam Dinh, 974
+Vinh, Phan Thiet, 899
+Long Xuyen, Thanh Pho Ha Long, 1188
+Buon Ma Thuot, Thanh Pho Thai Nguyen, 1019
+My Tho, Soc Trang, 95
+Pleiku, Thanh Hoa, 689
+Ca Mau, Thanh pho Bac Lieu, 64
+Thanh Pho Hoa Binh, Vinh Long, 1177
+Yen Bai, Viet Tri, 67
+Phan Rang-Thap Cham, Thu Dau Mot, 263
+Tuy Hoa, Tan An, 426
+Cao Lanh, Ben Tre, 85
+Tam Ky, Thanh Pho Hai Duong, 638
+Tra Vinh, Thanh Pho Lang Son, 1325
+Bac Giang, Thanh Pho Thai Binh, 93
+Kon Tum, Bac Ninh, 787
+Thanh Pho Cao Bang, Dien Bien Phu, 363
+Hung Yen, Thanh Pho Ninh Binh, 44
+Lao Cai, Tay Ninh, 1263
+Thanh Pho Tuyen Quang, Quang Ngai, 835
+Thanh Pho Ha Giang, Thanh Pho Phu Ly, 271
+Quang Binh, Ha Tinh, 123
+Vi Thanh, Don Luan, 248
+Son La, Vinh Yen, 175
+Bac Kan, Dong Ha, 607
+Da Nang, Ho Chi Minh City, 608
+Haiphong,Ho Chi Minh City, 1117
+Bien Hoa,Ho Chi Minh City, 25
+Hue,Ho Chi Minh City, 636
+Nha Trang,Ho Chi Minh City, 321
+Can Tho,Ho Chi Minh City, 127
+Rach Gia,Ho Chi Minh City, 192
+Qui Nhon,Ho Chi Minh City, 433
+Da Lat,Ho Chi Minh City, 234
+Thanh Pho Nam Dinh,Ho Chi Minh City, 1070
+Ho Chi Minh City,Vinh, 879
+Phan Thiet,Ho Chi Minh City, 161
+Long Xuyen,Ho Chi Minh City, 139
+Thanh Pho Ha Long,Ho Chi Minh City, 1127
+Buon Ma Thuot,Ho Chi Minh City, 256
+Thanh Pho Thai Nguyen,Ho Chi Minh City, 1201
+My Tho,Ho Chi Minh City, 59
+Soc Trang,Ho Chi Minh City, 154
+Pleiku,Ho Chi Minh City, 382
+Thanh Hoa,Ho Chi Minh City, 1002
+Ca Mau,Ho Chi Minh City, 244
+Thanh pho Bac Lieu,Ho Chi Minh City, 197
+Thanh Pho Hoa Binh,Ho Chi Minh City, 1120
+Ho Chi Minh City,Vinh Long, 96
+Ho Chi Minh City,Yen Bai, 1226
+Ho Chi Minh City,Viet Tri, 1175
+Phan Rang-Thap Cham,Ho Chi Minh City, 270
+Ho Chi Minh City,Thu Dau Mot, 18
+Ho Chi Minh City,Tuy Hoa, 387
+Tan An,Ho Chi Minh City, 40
+Cao Lanh,Ho Chi Minh City, 116
+Ben Tre,Ho Chi Minh City, 70
+Tam Ky,Ho Chi Minh City, 565
+Thanh Pho Hai Duong,Ho Chi Minh City, 1125
+Ho Chi Minh City,Tra Vinh, 102
+Thanh Pho Lang Son,Ho Chi Minh City, 1226
+Bac Giang,Ho Chi Minh City, 1163
+Thanh Pho Thai Binh,Ho Chi Minh City, 1071
+Kon Tum,Ho Chi Minh City, 420
+Bac Ninh,Ho Chi Minh City, 1154
+Thanh Pho Cao Bang,Ho Chi Minh City, 1317
+Dien Bien Phu,Ho Chi Minh City, 1236
+Hung Yen,Ho Chi Minh City, 1094
+Thanh Pho Ninh Binh,Ho Chi Minh City, 1051
+Lao Cai,Ho Chi Minh City, 1327
+Tay Ninh,Ho Chi Minh City, 79
+Ho Chi Minh City,Thanh Pho Tuyen Quang, 1232
+Quang Ngai,Ho Chi Minh City, 532
+Thanh Pho Ha Giang,Ho Chi Minh City, 1346
+Thanh Pho Phu Ly,Ho Chi Minh City, 1084
+Quang Binh,Ho Chi Minh City, 739
+Ha Tinh,Ho Chi Minh City, 840
+Ho Chi Minh City,Vi Thanh, 172
+Don Luan,Ho Chi Minh City, 84
+Son La,Ho Chi Minh City, 1203
+Ho Chi Minh City,Vinh Yen, 1171
+Bac Kan,Ho Chi Minh City, 1262
+Dong Ha,Ho Chi Minh City, 668
+Hanoi,Ha Tinh, 351
+Hanoi,Vinh Long, 1632
+Hanoi,Phan Rang-Thap Cham, 1379
+Hanoi,Tay Ninh, 1439
+Hanoi,Thanh Pho Thai Nguyen, 85
+Ben Tre,Thanh Pho Thai Binh, 1590
+Cat Ba,Thanh Pho Thai Binh, 149
+Ha Tinh,Thanh Pho Thai Binh, 313
+Thanh Pho Ninh Binh,Thanh Pho Thai Binh, 52
+Hanoi,Thanh Pho Thai Binh, 104
+Da Lat,Ha Tinh, 1060
+Ca Mau,Ha Tinh, 1561
+Thanh Pho Ha Giang,Ha Tinh, 631
+Can Giuoc,Ha Tinh, 1291
+Thanh pho Bac Lieu,Ha Tinh, 1525
+Da Lat,Tra Vinh, 426
+Da Lat,Qui Nhon, 342
+Da Lat,Kon Tum, 426
+Da Lat,Hung Yen, 1390
+Da Lat,Tan An, 346
+Cam Ranh,Da Nang, 576
+Cam Ranh,Quang Binh, 830
+Cam Ranh,Hue, 731
+Cam Ranh,Quang Ngai, 500
+Cam Ranh,Rach Gia, 642
+Yen Bai,Hue, 821
+Quang Ngai,Hue, 223
+Bac Kan,Hue, 830
+Thanh Pho Tuyen Quang,Hue, 799
+Can Tho,Hue, 360
+Quang Ngai,Hue, 223
+Quang Ngai,Ben Tre, 894
+Quang Ngai,Tuy Hoa, 288
+Quang Ngai,Ca Mau, 1110
+Quang Ngai,Cao Lanh, 954
+Dien Bien Phu,Tuy Hoa, 1578
+Tan An,Tuy Hoa, 588
+Cho Doc,Tuy Hoa, 748
+Tra Vinh,Tuy Hoa, 666
+Thanh Pho Hai Duong,Tuy Hoa, 1184
+Pleiku, Yen Bai, 1374
+Thu Dau Mot, Yen Bai, 1856
+Thanh Pho Ha Giang, Yen Bai, 192
+Thanh Pho Tuyen Quang, Yen Bai, 56
+Hung Yen, Yen Bai, 217
+Pleiku, Tan An, 569
+Pleiku, Da Lat, 386
+Pleiku, Thanh Pho Nam Dinh, 1032
+Pleiku, Tuy Hoa, 224
+Pleiku, Hue, 422
+Tuy Hoa, Da Lat, 246
+Cat Ba, Da Lat, 1774
+Ca Mau, Da Lat, 597
+Thanh Pho Ninh Binh, Da Lat, 1318
+Thanh Pho Ha Long, Da Lat, 1524

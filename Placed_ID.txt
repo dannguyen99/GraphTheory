@@ -1,0 +1,64 @@
+Hanoi, 1
+Ho Chi Minh City, 2
+Da Nang, 3
+Haiphong, 4
+Hue, 5
+Bien Hoa, 6
+Nha Trang, 7
+Can Tho, 8 
+Rach Gia, 9
+Qui Nhon, 10
+Da Lat, 11
+Thanh Pho Nam Dinh, 12
+Vinh, 13
+Long Xuyen, 14
+Phan Thiet, 15
+Thanh Pho Ha Long, 16
+Buon Ma Thuot, 17
+Thanh Pho Thai Nguyen, 18
+My Tho, 19
+Soc Trang, 20
+Pleiku, 21
+Thanh Hoa, 22
+Ca Mau, 23
+Thanh pho Bac Lieu, 24
+Thanh Pho Hoa Binh, 25
+Vinh Long, 26
+Yen Bai, 27
+Viet Tri, 28
+Phan Rang-Thap Cham, 29
+Thu Dau Mot, 30
+Tuy Hoa, 31
+Tan An, 32
+Cao Lanh, 33
+Ben Tre, 34
+Tam Ky, 35
+Thanh Pho Hai Duong, 36
+Tra Vinh, 37
+Thanh Pho Lang Son, 38
+Bac Giang, 39
+Thanh Pho Thai Binh, 40
+Kon Tum, 41
+Bac Ninh, 42
+Thanh Pho Cao Bang, 43
+Dien Bien Phu, 44
+Hung Yen, 45
+Thanh Pho Ninh Binh, 46
+Lao Cai, 47
+Tay Ninh, 48
+Thanh Pho Tuyen Quang, 49
+Quang Ngai, 50
+Thanh Pho Ha Giang, 51
+Thanh Pho Phu Ly, 52
+Quang Binh, 53
+Vi Thanh, 54
+Ha Tinh, 55
+Don Luan, 56
+Son La, 57
+Vinh Yen, 58
+Bac Kan, 59
+Dong Ha, 60
+Can Giuoc, 61
+Cam Ranh, 62
+Cho Doc, 63
+Cat Ba, 64
